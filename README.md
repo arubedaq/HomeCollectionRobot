@@ -18,8 +18,7 @@ Both the prototype and the control remote use a Texas Instruments TIVA TM4C1294N
 This work is intended as an academic deliverable and is currently closed, so it will not receive future updates. However, you are free to fork it and complement it as you wish.
 
 ## Authors
-José Antonio Heredia Muñoz
-Arturo Renato Úbeda Quilón
+José Antonio Heredia Muñoz & Arturo Renato Úbeda Quilón
 
 
 
